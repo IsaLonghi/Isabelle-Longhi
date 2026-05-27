@@ -1,5 +1,3 @@
-# Isabelle-Longhi
-Meu portfólio 😊
 # Olá, eu sou a Isabelle Longhi! 👋
 
 Sou estudante de *Gestão de Tecnologia da Informação (FATEC - Tatuí)* e apaixonada por desenvolvimento, automação e otimização de processos. Atualmente, atuo como *Jovem Aprendiz na área de Tecnologia da Informação no Grupo Petrópolis*.
